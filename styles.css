@@ -7,13 +7,13 @@ body {
     min-height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url(https://images3.alphacoders.com/853/853212.jpg);
+    background-image: url(Png/Fond.png);
     background-size: cover;
 }
 
 .container {
     text-align: center;
-    background-color: #8f530eec;
+    background-color: #6d481ebb;
     padding: 30px;
     border-radius: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -63,7 +63,7 @@ h1 {
     border: 5px #000000 solid;
     border-radius: 15px;
     color: #000000;
-    background-color: #7c490f;
+    background-color: #5a360d;
     text-decoration: none;
     transition: background-color 0.3s ease, transform 0.2s ease;
     width: 100%;
